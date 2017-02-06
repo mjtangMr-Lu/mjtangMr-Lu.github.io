@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Mr.Lu
 title: "About"
 description: "On my way to change"
 header-img: "img/green.jpg"
